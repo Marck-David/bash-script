@@ -27,3 +27,5 @@ if [ "$pasaporte" = "si" ] && [ "$tiempo" = "si" ] && [ "$antecedentes" = "no" ]
 else
     echo "Lo sentimos, no cumples con todos los requisitos para viajar a Australia."
 fi
+
+# Realizando una prueba de contribucion a otro repositorio
