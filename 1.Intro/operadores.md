@@ -66,3 +66,6 @@ Ejemplo: if [ "$condición1" -a "$condición2" ]
 -o: O lógico (OR).
 
 Ejemplo: if [ "$condición1" -o "$condición2" ]
+
+
+sss
